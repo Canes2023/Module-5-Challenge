@@ -4,5 +4,9 @@ For this challenge, I was tasked to fix the work day scheduler. Before I fixed i
 
 Code source was provided by Instructor from the devolop folder and location of the code is in the main branch of the repo. The script code is located in the js folder and the css code is located in the css folder. 
 
+
+Screenshot of Website: ![work day scheduler](https://github.com/Canes2023/Work-Day-Scheduler/assets/145178643/05870cca-24fe-4286-bc2d-d687e7828d0b)
+
+
 URL of Website: 
 
